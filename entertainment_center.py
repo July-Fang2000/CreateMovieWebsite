@@ -36,3 +36,5 @@ story6 = media.Movie("Hunger Games",
 
 movies = [story1,story2,story3,story4,story5,story6]
 fresh_tomatoes.open_movies_page(movies)
+#print(media.Movie.VALID_RATING)
+#print(media.Movie.__doc__)
